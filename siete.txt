@@ -1,2 +1,6 @@
 9823hs8i23
+<<<<<<< HEAD
 cambiado en master  
+=======
+cambios en desarrollo
+>>>>>>> desarrollo
